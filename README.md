@@ -1,7 +1,7 @@
 # The plan to become an embedded software engineer
 By James Wu
-Feedback from Simon Calder @ 22/06/2019
-Feedback from David Sperry @ 02/07/2019
+- Feedback from Simon Calder @ 22/06/2019
+- Feedback from David Sperry @ 02/07/2019
 
 # Background
 I have been working as an electronic engineer for about 6 years doing hardware and firmware development. This is my plan to get a role in embedded software development.
