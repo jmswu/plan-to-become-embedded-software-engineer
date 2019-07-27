@@ -12,20 +12,18 @@ I have been working as an electronic engineer for almost 6 years doing hardware 
 - Learn yocto to build embedded Linux system
 - Python for writing test script/automatic testing
 - Do an online course (Maybe, only if interested)
- - online course enrolled
-   - python
-   - yocto
-   - qt
-   - c++ (advanced), maybe do C++ with unreal engine just for fun
+   - online course enrolled
+     - python
+     - yocto
+     - qt
+     - c++ (advanced), maybe do C++ with unreal engine just for fun
 - Learn CI/CD
 - Learn SQL/SQLite
 - Learn bash script (enough to automatic daily task)
 
-- Advance topics
-  - data structure and algorithm
-
-- books
-  - Common Sense Guid to Data Structures and Algorithms: https://amzn.to/2l8ssE6
+### Advance topics
+- data structure and algorithm
+- Common Sense Guid to Data Structures and Algorithms: https://amzn.to/2l8ssE6
 
 # Curently learning
 - doing an online Python course
