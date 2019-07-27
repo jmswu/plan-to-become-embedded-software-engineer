@@ -4,9 +4,7 @@ Feedback from Simon Calder @ 22/06/2019
 Feedback from David Sperry @ 02/07/2019
 
 # Background
-I have been working as an electronic engineer for about 6 years doing hardware and firmware development.
-
-Keen focus on embedded software development.
+I have been working as an electronic engineer for about 6 years doing hardware and firmware development. This is my plan to get a role in embedded software development.
 
 # The plan
 - ~~learn git~~
@@ -27,6 +25,6 @@ Keen focus on embedded software development.
 - learning Linux with ubuntu 16.04
 
 # Done
-- git, @ 7th July 2019
+- git @ 7th July 2019
 
 
