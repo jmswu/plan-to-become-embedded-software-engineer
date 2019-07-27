@@ -4,21 +4,25 @@ By James Wu
 - Feedback from David Sperry @ 02/07/2019
 
 # Background
-I have been working as an electronic engineer for about 6 years doing hardware and firmware development. This is my plan to get a role in embedded software development.
+I have been working as an electronic engineer for almost 6 years doing hardware and firmware development. This is my plan to get a role in embedded software development.
 
 # The plan
 - ~~learn git~~
-- Learn embedded Linux system
+- Learn embedded Linux system, this should be ongoing.
 - Learn yocto to build embedded Linux system
-- Python for writing test script
+- Python for writing test script/automatic testing
 - Do an online course (Maybe, only if interested)
  - online course enrolled
    - python
    - yocto
    - qt
-   - c++
+   - c++ (advanced), maybe do C++ with unreal engine just for fun
 - Learn CI/CD
-- Learn testing automation
+- Learn SQL/SQLite
+- Learn bash script (enough to automatic daily task)
+
+- Advance topic
+ - data structure and algorithm
 
 # Curently learning
 - doing an online Python course
