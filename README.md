@@ -18,6 +18,7 @@ I have been working as an electronic engineer for almost 6 years doing hardware 
      - qt
      - c++ (advanced), maybe do C++ with unreal engine just for fun
 - Learn CI/CD
+- Debug with GDB and kernal logging
 - Learn SQL/SQLite
 - Learn bash script (enough to automatic daily task)
 
