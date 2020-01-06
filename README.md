@@ -13,7 +13,7 @@ I have been working as an electronic engineer for almost 6 years doing hardware 
 - Python for writing test script/automatic testing
 - Do an online course (Maybe, only if interested)
    - online course enrolled
-     - python
+     - ~~ython~~
      - yocto
      - qt
      - ~~c++ (advanced), maybe do C++ with unreal engine just for fun~~
