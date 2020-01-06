@@ -10,10 +10,10 @@ I have been working as an electronic engineer for almost 6 years doing hardware 
 - ~~learn git~~
 - Learn embedded Linux system, this should be ongoing.
 - Learn yocto to build embedded Linux system
-- Python for writing test script/automatic testing
+- ~~Python for writing test script/automatic testing~~
 - Do an online course (Maybe, only if interested)
    - online course enrolled
-     - ~~ython~~
+     - ~~python~~
      - yocto
      - qt
      - ~~c++ (advanced), maybe do C++ with unreal engine just for fun~~
@@ -31,7 +31,5 @@ I have been working as an electronic engineer for almost 6 years doing hardware 
 - doing an online Python course
 - learning Linux with ubuntu 16.04
 
-# Done
-- git @ 7th July 2019
 
 
