@@ -28,8 +28,8 @@ I have been working as an electronic engineer for almost 6 years doing hardware 
 - Common Sense Guid to Data Structures and Algorithms: https://amzn.to/2l8ssE6
 
 # Curently learning
-- doing an online Python course
-- learning Linux with ubuntu 16.04
+- learning Linux with Linux mint
+- learning embedded Linux
 
 
 
