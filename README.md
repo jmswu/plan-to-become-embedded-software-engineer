@@ -16,7 +16,8 @@ I have been working as an electronic engineer for almost 6 years doing hardware 
      - python
      - yocto
      - qt
-     - c++ (advanced), maybe do C++ with unreal engine just for fun
+     - ~~c++ (advanced), maybe do C++ with unreal engine just for fun~~
+     - need to find a better C++ advance course (the one above is very basic)
 - Learn CI/CD
 - Debug with GDB and kernal logging
 - Learn SQL/SQLite
