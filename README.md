@@ -1,4 +1,4 @@
-# The plan to improve embedded software development skills
+# The plan to get better writting words to tell machine to do stuffs
 By James Wu
 - Feedback from Simon Calder @ 22/06/2019
 - Feedback from David Sperry @ 02/07/2019
