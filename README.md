@@ -1,4 +1,4 @@
-# The plan to get better writting words to tell machine to do stuffs
+# The plan to get better writting words to tell machines to do stuffs
 By James Wu
 - Feedback from Simon Calder @ 22/06/2019
 - Feedback from David Sperry @ 02/07/2019
