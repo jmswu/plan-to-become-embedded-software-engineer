@@ -1,10 +1,11 @@
-# The plan to become an embedded software engineer
+# The plan to improve embedded software development skills
 By James Wu
 - Feedback from Simon Calder @ 22/06/2019
 - Feedback from David Sperry @ 02/07/2019
+- Feedback from Mike Ritchie @ 08/01/2020
 
 # Background
-I have been working as an electronic engineer for almost 6 years doing hardware and firmware development. This is my plan to get a role in embedded software development.
+I have been working as an electronic engineer for almost 6 years doing hardware and firmware development. This is my plan to improve embedded software development skills.
 
 # The plan
 - ~~learn git~~
